@@ -1,0 +1,183 @@
+body{
+    font-family: 'Lato', sans-serif;
+    width: 1440px;
+    height: 900px;
+    margin: 0;
+}
+.block1{
+    display: flex;
+    background: #F4F6F9;
+}
+
+.logo-flex{
+    display: flex;
+}
+
+.logo-ball{
+    padding-left: 163px;
+}
+
+.title-get-a-personalized{
+    padding-left: 163px;
+    padding-top: 133px;
+    width: 546px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.03em;
+    color: #333333;
+}
+
+.paragraph-get-a-personalized{
+    padding-left: 163px;
+    padding-top: 30px;
+    width: 453px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #4F4F4F;
+}
+
+.apple-store{
+    display: flex;
+    margin-left: 163px;
+    margin-top: 50px;
+    width: 156.05px;
+    height: 47px;
+    background: #000000;
+    border-radius: 7.33503px;
+    cursor: pointer;
+}
+
+.logo-ios{
+    width: 25.09px;
+    height: 30.78px;
+    padding-top: 6px;
+}
+
+.paragraph-app-store{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: #FFFFFF;
+    margin: 0;
+    padding-left: 13px;
+    padding-top: 4px;
+}
+
+.title-app-store{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.2716px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin: 0;
+    padding-left: 13px;
+}
+
+.android-store{
+    display: flex;
+    margin-left: 36px;
+    margin-top: 50px;
+    width: 156.05px;
+    height: 47px;
+    background: #000000;
+    border-radius: 7.33503px;
+    cursor: pointer;
+}
+
+.logo-google-play{
+    width: 25.09px;
+    height: 30.78px;
+    padding-top: 6px;
+}
+
+.paragraph-android-store{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 11.0025px;
+    line-height: 13px;
+    color: #FFFFFF;
+    margin: 0;
+    padding-top: 4px;
+    padding-left: 13px;
+}
+
+.title-android-store{
+    margin: 0;
+    padding-left: 13px;
+}
+
+.word-google{
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 17.6041px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.word-play{
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 17.6041px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.telephone-photo{
+    width: 730px;
+    height: 626px;
+}
+
+.block2{
+    display: flex;
+    background: #FFFFFF;
+}
+
+.block-image{
+    width: 805px;
+    height: 592px;
+    background-image: url(Rectangle.svg);
+    background: linear-gradient(270deg, #FFFFFF 5.16%, rgba(255, 255, 255, 0) 67.14%), rgba(255, 255, 255, 0.5);
+    
+}
+
+.block-video{
+    position: absolute;
+    width: 360px;
+    height: 218.06px;
+    left: 269px;
+    top: 961px;
+    background: url(5b784ded13cc9.image_.jpg);
+    border-radius: 4px;
+}
+
+.position-block{
+    display: flex;
+    box-sizing: border-box;
+    position: absolute;
+    width: 360px;
+    height: 218.06px;
+    left: 163px;
+    top: 774px;
+    background: #FFFFFF;
+    box-shadow: -22.0416px 23.8785px 48.9814px rgba(0, 0, 0, 0.5);
+    border-radius: 4px;
+}
+
+.block-football{
+    
+}
+
+
+.position-button{
+
+}
+
+.block-text{
+    padding-left: 168px;
+}

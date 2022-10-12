@@ -1,0 +1,9 @@
+@media all (max-weight: 360px){
+    .block1{
+        display: none;
+    }
+
+    .telephone-photo_error{
+        display: none;
+    }
+}

@@ -71,16 +71,29 @@ body{
 }
 
 .arsenal-img{
-    padding-left: 163px;
-    padding-top: 109px;
+    box-sizing: border-box;
+    position: absolute;
+    width: 360px;
+    height: 218.06px;
+    left: 163px;
+    top: 774px;
+    background: #FFFFFF;
+    box-shadow: -22.0416px 23.8785px 48.9814px rgba(0, 0, 0, 0.5);
+    border-radius: 4px;
 }
 
 .chelsea-img{
-    margin-left: 269px;
+    position: absolute;
+    width: 360px;
+    height: 218.06px;
+    left: 269px;
+    top: 961px;
+    background: url(5b784ded13cc9.image_.jpg);
+    border-radius: 4px;
 }
 
 .block-text{
-    margin-left: 274px;
+    margin-left: 797px;
 }
 
 .what-it-does{

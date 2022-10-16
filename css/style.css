@@ -21,7 +21,7 @@ body{
 
 .logo-ball{
     padding-left: 163px;
-    padding-top: 63px;
+    padding-top: 57px;
 }
 
 .sports{
@@ -325,3 +325,79 @@ padding-top: 59px;
     padding-left: 79px;
     padding-top: 70px;
 }
+
+.block7{
+    display: flex;
+    width: 100%;
+}
+
+.phone-telephone{
+    width: 50%;
+}
+
+.phone-telephone-text{
+    width: 50%;
+}
+
+.get-up-close-with-your-team{
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 37px;
+    color: #333333;
+    padding-top: 105px;
+}
+
+.paragraph-get-up-close-with-your-team{
+    width: 535px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #4F4F4F;
+    padding-top: 35px;
+}
+
+.phone-telephone-flex{
+    display: flex;
+    padding-top: 38px;
+    gap: 36px;
+}
+
+.footer{
+    width: 100%;
+    height: 127px;
+    background: #00ADEE;
+    display: flex;
+}
+
+.football-svg{
+    padding-left: 163px;
+    padding-top: 44px;
+}
+
+.sport-svg{
+    padding-left: 2px;
+    padding-top: 50px;
+}
+
+.link{
+    padding-left: 271px;
+    padding-top: 53px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.support, .developers, .privacy{
+    padding-left: 37px;
+}
+
+.social-network{
+    padding-left: 261px;
+    padding-top: 51px;
+}
+
+.facebook, .instagram{
+    padding-left: 17px;
+}
+
